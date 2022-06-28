@@ -32,6 +32,9 @@ Hi, i'm Amit Chavda, a passionate softwarre developer at [Simform Solutions](htt
     _   | |  / _` | \ \ / /  / _` |
    | |__| | | (_| |  \ V /  | (_| |
     \____/   \__,_|   \_/    \__,_|
+    
+    
+    JDK + JRE + Java 8
   
   ```                               
   
@@ -45,6 +48,8 @@ Hi, i'm Amit Chavda, a passionate softwarre developer at [Simform Solutions](htt
    |_____/  | .__/  |_|    |_| |_| |_|  \__, |   |_.__/   \___/   \___/   \__|
             | |                          __/ |                                
             |_|                         |___/           
+            
+   Restful API + Spring Security + Spring AOP + JUnit + Mockito + Thymleaf + oAuth2.0
 ```
   
 ```
@@ -56,7 +61,7 @@ Hi, i'm Amit Chavda, a passionate softwarre developer at [Simform Solutions](htt
    | |__| | | (_) | | (__  |   <  |  __/ | |   
    |_____/   \___/   \___| |_|\_\  \___| |_|   
 
-  
+  Containers + Kubernetes + Docker-Compose
 ```
                                 
 ```
