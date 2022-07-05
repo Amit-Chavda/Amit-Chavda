@@ -49,8 +49,26 @@ Hi, i'm Amit Chavda, a passionate softwarre developer at [Simform Solutions](htt
             | |                          __/ |                                
             |_|                         |___/           
             
-   Restful API + Spring Security + Spring AOP + JUnit + Mockito + Thymleaf + OAuth2.0
+   Restful API + Spring Security + Spring AOP + Thymleaf + OAuth2.0
 ```
+  
+  
+```
+
+  _    _           _   _       _______                _     _                 
+ | |  | |         (_) | |     |__   __|              | |   (_)                
+ | |  | |  _ __    _  | |_       | |      ___   ___  | |_   _   _ __     __ _ 
+ | |  | | | '_ \  | | | __|      | |     / _ \ / __| | __| | | | '_ \   / _` |
+ | |__| | | | | | | | | |_       | |    |  __/ \__ \ | |_  | | | | | | | (_| |
+  \____/  |_| |_| |_|  \__|      |_|     \___| |___/  \__| |_| |_| |_|  \__, |
+                                                                         __/ |
+                                                                        |___/ 
+
+  JUnit.5 + Mockito + Assertion
+
+```
+  
+  
   
 ```
   
