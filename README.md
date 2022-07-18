@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
-Hi, i'm Amit Chavda, a passionate softwarre developer at [Simform Solutions](https://www.simform.com/) and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Amit, a passionate softwarre developer at [Simform Solutions](https://www.simform.com/) and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
   
 - 💼 any freelance work? do reach, [email](mailto:amitchavda9879@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -91,7 +91,18 @@ Hi, i'm Amit Chavda, a passionate softwarre developer at [Simform Solutions](htt
    
    Spring Cloud
 ```                                                      
-                                
+
+```
+         _                  _      _               
+        | |                | |    (_)              
+        | |   ___   _ __   | | __  _   _ __    ___ 
+    _   | |  / _ \ | '_ \  | |/ / | | | '_ \  / __|
+   | |__| | |  __/ | | | | |   <  | | | | | | \__ \
+    \____/   \___| |_| |_| |_|\_\ |_| |_| |_| |___/
+                                                 
+```
+
+
 ```
     __  __          ___    ___    _        __         __  __                             ___    ___ 
    |  \/  |  _  _  / __|  / _ \  | |      / _|___    |  \/  |  ___   _ _    __ _   ___  |   \  | _ )
